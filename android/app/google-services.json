@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268672892332",
+    "firebase_url": "https://libsys-3860a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "libsys-3860a",
+    "storage_bucket": "libsys-3860a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268672892332:android:cd1d81b3bfceadc20b4e09",
+        "android_client_info": {
+          "package_name": "com.example.project_lib_beta_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268672892332-stieb6vbvp7jm820oa1hc4rjgipfcgjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYvD5R4VSdMhk-3d13rgD0FBaAensIPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268672892332-stieb6vbvp7jm820oa1hc4rjgipfcgjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
